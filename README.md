@@ -9,7 +9,6 @@ Skills and steps peformed:
 to focus their efforts toward the top five categories of content by popularity.
 
 ## Findings
----
 There were **sixteen** unique categories.
 
 The top five categories by popularity turned out to be:
@@ -22,6 +21,5 @@ The top five categories by popularity turned out to be:
 The most reactions recorded in a single month happened in **January.**
 
 ## Future Questions
----
  - Can we use this data to boost user engagement?
  - How can we utilize this data to give users ads directly targeted to them?
